@@ -1,0 +1,81 @@
+{
+	"profiles":[
+		{
+			"basics":{
+				"name":"Bevara Venkata Gowthami",
+				"role":"Student",
+				"email":"abcd@gmail.com",
+				"mobile":"+91 9876543210",
+				"gender":"female",
+				"address":"vijayawada,Andhra pradesh"
+
+			},
+			"summery":[
+				"I am Fresher in computer science engineering",
+                "But i having knowledge in some technologies like HTML5,CSS3,and Javascript",
+                "Having knowledge on Python, C++,React",
+                "Used different kinds of frameworks for backend i.e Codeigniter,Django and Express",
+                "Used databases like mySql,oracle and firebase"
+
+			],
+			"education":[
+				{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"90%"
+				},
+				{
+                    "degree":"Intermediate in MPC",
+                    "institute":"Sri Chaitanya Junior College",
+                    "result":"94%"
+				},
+				{
+                    "degree":"S.S.C",
+                    "institute":"S.T.B.E.M  high school",
+                    "result":"98%"
+				}
+
+
+			]
+		},
+	    {
+	    	"basics":{
+				"name":"Saketha",
+				"role":"Student",
+				"email":"abcd480@gmail.com",
+				"mobile":"+91 9876543219",
+				"gender":"female",
+				"address":"vijayawada,Andhra pradesh"
+
+			},
+			"summery":[
+				"I am Fresher in computer science engineering",
+                "But i having knowledge in some technologies like HTML5,CSS3,and Javascript",
+                "Having knowledge on Python, C++,React",
+                "Used different kinds of frameworks for backend i.e ,Django and Express",
+                "Used databases like mySql,oracle"
+
+			],
+			"education":[
+				{
+                    "degree":"BCA ",
+                    "institute":"PB Sidhartha",
+                    "result":"90%"
+				},
+				{
+                    "degree":"Intermediate in MPC",
+                    "institute":"Sri Chaitanya Junior College",
+                    "result":"90%"
+				},
+				{
+                    "degree":"S.S.C",
+                    "institute":"S.T.B.E.M high school",
+                    "result":"94%"
+				}
+
+
+			]
+	    }
+		
+	]
+}
